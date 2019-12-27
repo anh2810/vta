@@ -1,0 +1,18 @@
+Creating Slideshow:
+HTML:
+    div Slideshow-container content
+        div mySlide contain Image and document
+    div contain active button
+    
+CSS:
+    Slideshow-container Styling:
+        Styling Dimension(width, height)
+        position: relative - 
+        margin: auto
+    
+    mySlide
+        set display = none. All Images in this selector wont display when the page loaded. They jusst display when javscript active
+    
+    Styling for document on the page
+    Styling active button
+        set cursor: 
